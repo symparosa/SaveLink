@@ -21,3 +21,22 @@ Processo de desenvolvimento:
 10.	Testei os endpoint através da ferramenta Postman.
 
 Uso do api: em caso de quererem testar somente o api devem abrir a documentação, pegar os endpoint e fazem o teste em alguma feramente de teste de api’s. 
+
+INTERFACE
+
+Framework: Bootstrap.
+
+Páginas e funcionalidades:
+•	Página principal – onde o utilizador pode salvar os artigos. 
+•	Minha lista – onde o utilizador pode ver os seus artigos, adiciona-los a favoritos, remove-los e edita-los. 
+•	Favoritos - onde o utilizador pode ver os seus artigos favoritos e também pode remove-los da lista de favoritos. 
+
+Linguagem: HTML, CSS e JAVASCRIPT
+
+Processo de desenvolvimento: 
+1.	Criei as páginas utilizando HTML, CSS e Bootstrap.
+2.	Criei as ações nas páginas com JavaScript.
+3.	Para consumir a api utilizei JavaScript-Fecth.
+
+Uso do sistema: devem aceder a … e fazer o uso do sistema.
+
