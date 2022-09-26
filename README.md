@@ -38,5 +38,5 @@ Processo de desenvolvimento:
 2.	Criei as ações nas páginas com JavaScript.
 3.	Para consumir a api utilizei JavaScript-Fecth.
 
-Uso do sistema: devem aceder a … e fazer o uso do sistema.
+Uso do sistema: devem aceder a https://savelink-app-73cnn.ondigitalocean.app/index.html e fazer o uso do sistema.
 
