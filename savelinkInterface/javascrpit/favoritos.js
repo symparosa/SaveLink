@@ -1,5 +1,5 @@
 
-var domain = "http://localhost:8080";
+var domain = "https://savelink.finalproject.gq";
 
 window.onload = function Favoritos() {
 
